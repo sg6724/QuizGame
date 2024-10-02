@@ -1,0 +1,5 @@
+1. Paris, 2. Rome, 3. Berlin, 4. Madrid;1
+1. 1955, 2. 1950, 3. 1960, 4. 1945;4
+1. Charles Dickens, 2. William Shakespeare, 3. Mark Twain, 4. James Austin;2
+1. Mars, 2. Earth, 3. Jupiter, 4. Saturn;3
+1. Atlantic Ocean, 2. Indian Ocean, 3. Arctic Ocean, 4. Pacific Ocean;4
